@@ -57,7 +57,7 @@ If the nac bypass is successful, listen to the network with wireshark. And here,
 The purpose of this tool and this scenario is to increase security awareness for your institutions. In addition, the perspective of an APT group has been tried to be reflected.
 
 # Everyone is looking at what you are looking at; But can everyone see what he can see? You are the only difference between them… 
-By Mevlânâ Celâleddîn-i Rûmî
+By D4RKSTUFF-LAB
 
 
 
