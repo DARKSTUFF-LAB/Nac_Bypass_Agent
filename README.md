@@ -1,6 +1,6 @@
 # Nac Bypass Agent
 
-This piece of code is a script written in Python and designed to run on Kali Linux. Here is a summary explaining what each function does
+This piece of code is a script written in Python and designed to run on Kali Linux. Here is a summary explaining what each function does:
 
 # run_command(command): 
 This function runs the command it takes as input and returns its output.
