@@ -23,7 +23,7 @@ prCyan('''
                                                                                                                          
 
 				 _                 
-				//\lperen  |U|gurl
+				//\lperen  |U|gurlu
                    `-'     
 
                       
